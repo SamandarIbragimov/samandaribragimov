@@ -1,5 +1,5 @@
 ### Hi there 👋
-I have a strong interest in Software Development. Especially Back-end development, Machine Learning, Data Structures and Algorithms. Currently, I am an M2 student at Grenoble Alpes University majoring in Software Engineering and looking for an internship to increase my experience.
+I have a strong interest in Software Development. Especially Back-end development, Machine Learning, Data Structures and Algorithms.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/samandar-ibragimov/) 
