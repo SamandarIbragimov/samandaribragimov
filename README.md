@@ -1,5 +1,5 @@
 ### Hi there 👋
-I have a strong interest in Software Development. Especially Back-end development, Machine Learning, Data Structures and Algorithms.
+I have a strong interest in Software Development. Especially Back-end development, Cloud technologies, Distributed Systems, Data Structures and Algorithms.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/samandar-ibragimov/) 
